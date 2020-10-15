@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">E Market</string>
+    <string name="e_market_title">E-MARKET</string>
+    <string name="e_market_subtitle">YOUR PLACE TO BE</string>
 </resources>
